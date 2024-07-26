@@ -1,0 +1,11 @@
+img{
+    position: absolute;    
+}     
+.img2{
+    height: 300px;
+    width: 200px;
+}
+.txtname{
+    position: absolute;
+    font-size: 24px;
+}
